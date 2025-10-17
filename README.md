@@ -1,6 +1,6 @@
 # Janji
 
-Saya Mohammad Mudrik dengan NIM 2407142 berjanji untuk mengerjakan tugas praktikum 4 dengan sungguh-sungguh Dalam mata kuliah Dasar Pemrograman Berorientasi Objek tanpa membocorkan atau mencotek kepada teman Demi Kebaikan-Nya
+Saya Mohammad Mudrik dengan NIM 2407142 berjanji untuk mengerjakan tugas praktikum 5 dengan sungguh-sungguh Dalam mata kuliah Dasar Pemrograman Berorientasi Objek tanpa membocorkan atau mencotek kepada teman Demi Kebaikan-Nya
 
 # Desain Program
 
